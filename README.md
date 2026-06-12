@@ -3,8 +3,8 @@
 Atividade acadêmica prática desenvolvida utilizando a técnica de **Pair Programming** com Python e SQLAlchemy ORM para simular e gerenciar relacionamentos em bancos de dados relacionais.
 
 ## 👥 Integrantes da Dupla
-* **Piloto / Navegador:** [Nome do Aluno 1]
-* **Navegador / Piloto:** [Nome do Aluno 2]
+* **Piloto / Navegador:** [Richard ]
+
 
 ---
 
